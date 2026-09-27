@@ -95,14 +95,14 @@ An engineering student passionate about building scalable, reliable software sys
 
 ### 📈 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mademohanvamsikrishna-prog&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="Mohan Vamsi Krishna's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mademohanvamsikrishna-prog&layout=compact&theme=slate&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mademohanvamsikrishna-prog&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="Mohan Vamsi Krishna's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mademohanvamsikrishna-prog&layout=compact&theme=slate&hide_border=true" alt="Top Languages" width="45%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mademohanvamsikrishna-prog&theme=slate&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mademohanvamsikrishna-prog&theme=slate&hide_border=true" alt="GitHub Streak" width="95%" />
+</p>
 
 ---
 
